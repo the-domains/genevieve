@@ -1,0 +1,28 @@
+name: Genevieve
+favicon: null
+layout_spectrum: 0.3511385752353817
+typography_spectrum: 0.989780202973634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7689050736371428
+  lightness: 0.3658721982501447
+  saturation: 0.6670831076335162
+  rhythmicContrast: 0.34537942335009575
+purpose: []

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Genevieve]]></title>
+        <description><![CDATA[Genevieve]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 21:27:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Big Day]]></title>
+            <description><![CDATA[<article><h1>The Big Day</h1><p>So the day started off with a big question mark at 3:30AM. Inducing labor is not something Mother Nature exactly wants you to do. But modern science has now given us a way to trick women's bodies to thinking they should go into labor. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/060fc945-b266-4118-b908-c322d70f6e66.jpg"></article>]]></description>
+            <link>undefinedthe-big-day/index.html</link>
+            <guid isPermaLink="false">72979eff-333f-41b3-af8e-56867f9f37ed</guid>
+            <pubDate>Thu, 30 Jun 2016 21:27:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
